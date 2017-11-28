@@ -1,0 +1,7 @@
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
